@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.container {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+}
+.events-container {
+  width: 60vw;
+  background-color: #323f4b;
+  color: #ffffff;
+}
+.reg-container {
+  width: 40vw;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.ul-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
